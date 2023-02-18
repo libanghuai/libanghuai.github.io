@@ -1,31 +1,22 @@
-<table>
-
-<tr>
-<td align = "center"> Banghuai Li</td>
-<td rowspan="2" >Image</td>
-</tr>
-
-<tr>
-<td> I am a Staff R&D Engineer at Momenta.ai </td>
-</tr>
-</table>
-
-News
----
-[2022.03] One paper gets accepted by CVPR 2022！
-
-[2022.03] One paper gets accepted by ICME 2022!
-
-[2021.03] One paper gets accepted by CVPR 2021!
-
-[2020.12] One paper gets accepted by AAAI 2020!
-
-[2020.10] One paper gets accepted by NeurIPS 2020!
-
-
-Publications
-----
-FSCE: Few-shot Object Detection via Contrastive Proposal Encoding
-
-Acadamic Service
----
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" id="u0" href="https://zh.rakko.tools/tools/129/lib/tinymce/skins/ui/oxide/content.min.css" />
+  <link rel="stylesheet" type="text/css" id="u1" href="https://zh.rakko.tools/tools/129/lib/tinymce/skins/content/default/content.min.css" />
+ </head>
+ <body id="tinymce" class="mce-content-body " data-id="content" contenteditable="true" spellcheck="false" data-new-gr-c-s-loaded="14.1097.0" data-new-gr-c-s-check-loaded="14.1097.0" data-gr-ext-installed="">
+  <table style="border-collapse: collapse; width: 80%; height: 198px;" border="1">
+   <tbody>
+    <tr style="height: 22px;">
+     <td style="width: 50%; height: 22px; text-align: center;"><p>Banghuai Li</p><p>I received a B.E. degree in the School of Software from Wuhan University in 2015 and an M.S. degree in the School of Electronics Engineering and Computer Science from Peking University in 2018. I am currently a Staff R&amp;D Engineer at Momenta, a leading autonomous driving technology company in China. Before that, I was a Researcher at Megvii. My research interests include 2D/3D vision, autonomous driving, and artificial intelligence.</p></td>
+     <td style="width: 50%; height: 22px;"><br /></td>
+    </tr>
+   </tbody>
+  </table>
+  <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+  <div data-row="0" role="presentation" class="ephox-snooker-resizer-rows ephox-snooker-resizer-bar" style="position: absolute; left: 16px; top: 276.383px; height: 7px; width: 954px;"></div>
+  <div data-column="0" role="presentation" class="ephox-snooker-resizer-cols ephox-snooker-resizer-bar" style="position: absolute; left: 489.5px; top: 16px; height: 264.383px; width: 7px;"></div>
+  <div data-column="1" role="presentation" class="ephox-snooker-resizer-cols ephox-snooker-resizer-bar" style="position: absolute; left: 966.5px; top: 16px; height: 264.383px; width: 7px;"></div>
+ </body>
+</html>
